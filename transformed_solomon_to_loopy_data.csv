@@ -1,0 +1,596 @@
+scoring_title,start,stop,duration,category,sender,behaviour,receiver,bout_id,bout
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-142045-nm-bf-lena.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-142045-nm-bf-lena.arch,0,NA,NA,Nearest neighbour,Lena,Lasse,NA,1,2011-03-22-142045-nm-bf-lena.arch | Nearest neighbour | Lena | Lasse | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-142045-nm-bf-lena.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-142045-nm-bf-lena.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-142045-nm-bf-lena.arch | Total | total duration | NA | NA
+2011-03-22-142045-nm-bf-lena.arch,45,84.4,39.400000000000006,Behavior,Lena,Autopreening,NA,1,2011-03-22-142045-nm-bf-lena.arch | Behavior | Lena | Autopreening | NA
+2011-03-22-142045-nm-bf-lena.arch,152.2,152.2,0,Behavior,Lena,Stretch,NA,1,2011-03-22-142045-nm-bf-lena.arch | Behavior | Lena | Stretch | NA
+2011-03-22-142045-nm-bf-lena.arch,167.6,171.4,3.8000000000000114,Behavior,Lena,Approach,Sophie,1,2011-03-22-142045-nm-bf-lena.arch | Behavior | Lena | Approach | Sophie
+2011-03-22-142045-nm-bf-lena.arch,171.6,171.6,0,Contact Sit,Lena,Initiate Contact sit,Sophie,1,2011-03-22-142045-nm-bf-lena.arch | Contact Sit | Lena | Initiate Contact sit | Sophie
+2011-03-22-142045-nm-bf-lena.arch,171.8,214.6,42.79999999999998,Contact Sit,Lena,Contact Sit,Sophie,1,2011-03-22-142045-nm-bf-lena.arch | Contact Sit | Lena | Contact Sit | Sophie
+2011-03-22-142045-nm-bf-lena.arch,214.8,214.8,0,Contact Sit,Sophie,Terminate Contact sit,Lena,1,2011-03-22-142045-nm-bf-lena.arch | Contact Sit | Sophie | Terminate Contact sit | Lena
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Anton,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Elen,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Joey,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Klara,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Lena,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Sven,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Feeding,Willi,Before Feeding,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,NA,NA,Nearest neighbour,Heidi,Anton,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Nearest neighbour | Heidi | Anton | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Placeholder,Astrid,placeholder_text,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Placeholder | Astrid | placeholder_text | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Anton,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Astrid,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Elen,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Heidi,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Jakob,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Joey,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Jonas,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Klara,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Lasse,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Lena,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Mojo,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Sophie,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Sven,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Unknown,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Time.1,Willi,Afternoon,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-143059-nm-bf-heidi.arch,0,361.2,361.2,Total,NA,total duration,NA,NA,2011-03-22-143059-nm-bf-heidi.arch | Total | total duration | NA | NA
+2011-03-22-143059-nm-bf-heidi.arch,11.2,NA,NA,Acoustic,Heidi,Long Distance Call,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,29.6,30.6,1,Behavior,Heidi,Approach,Anton,1,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Heidi | Approach | Anton
+2011-03-22-143059-nm-bf-heidi.arch,30.6,30.6,0,Contact Sit,Heidi,Initiate Contact sit,Anton,1,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Heidi | Initiate Contact sit | Anton
+2011-03-22-143059-nm-bf-heidi.arch,30.8,181.8,151,Contact Sit,Heidi,Contact Sit,Anton,1,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Heidi | Contact Sit | Anton
+2011-03-22-143059-nm-bf-heidi.arch,109.2,NA,NA,Acoustic,Heidi,Long Distance Call,NA,2,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,124,NA,NA,Acoustic,Heidi,Long Distance Call,NA,3,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,142,NA,NA,Acoustic,Heidi,Long Distance Call,NA,4,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,145.6,NA,NA,Acoustic,Heidi,Long Distance Call,NA,5,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,181.8,181.8,0,Contact Sit,Anton,Terminate Contact sit,Heidi,1,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Anton | Terminate Contact sit | Heidi
+2011-03-22-143059-nm-bf-heidi.arch,188.4,NA,NA,Acoustic,Heidi,Long Distance Call,NA,6,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,188.4,189.6,1.1999999999999886,Behavior,Heidi,Approach,Anton,2,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Heidi | Approach | Anton
+2011-03-22-143059-nm-bf-heidi.arch,189.6,189.6,0,Contact Sit,Heidi,Initiate Contact sit,Anton,2,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Heidi | Initiate Contact sit | Anton
+2011-03-22-143059-nm-bf-heidi.arch,189.8,243.6,53.79999999999998,Contact Sit,Heidi,Contact Sit,Anton,2,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Heidi | Contact Sit | Anton
+2011-03-22-143059-nm-bf-heidi.arch,197.6,NA,NA,Acoustic,Heidi,Long Distance Call,NA,7,2011-03-22-143059-nm-bf-heidi.arch | Acoustic | Heidi | Long Distance Call | NA
+2011-03-22-143059-nm-bf-heidi.arch,198.8,199,0.19999999999998863,Behavior,Anton,Touch/hold,Heidi,1,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Anton | Touch/hold | Heidi
+2011-03-22-143059-nm-bf-heidi.arch,201.2,201.6,0.4000000000000057,Behavior,Heidi,Preening,Anton,1,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Heidi | Preening | Anton
+2011-03-22-143059-nm-bf-heidi.arch,225.6,225.6,0,Behavior,Anton,Touch bill,Heidi,1,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Anton | Touch bill | Heidi
+2011-03-22-143059-nm-bf-heidi.arch,229,230.4,1.4000000000000057,Behavior,Heidi,Touch touch bill,Anton,1,2011-03-22-143059-nm-bf-heidi.arch | Behavior | Heidi | Touch touch bill | Anton
+2011-03-22-143059-nm-bf-heidi.arch,243.6,243.6,0,Contact Sit,Anton,Terminate Contact sit,Heidi,2,2011-03-22-143059-nm-bf-heidi.arch | Contact Sit | Anton | Terminate Contact sit | Heidi
+2011-03-22-143059-nm-bf-heidi.arch,323.8,349.6,25.80000000000001,Ground Level,Heidi,Ground Level,NA,1,2011-03-22-143059-nm-bf-heidi.arch | Ground Level | Heidi | Ground Level | NA
+2011-03-22-143059-nm-bf-heidi.arch,361.2,NA,NA,Nearest neighbour,Heidi,Anton,NA,2,2011-03-22-143059-nm-bf-heidi.arch | Nearest neighbour | Heidi | Anton | NA
+2011-03-22-143855-nm-bf-sven.arch,0,6.2,6.2,Contact Sit,Sven,Contact Sit,Jonas,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Sven | Contact Sit | Jonas
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Anton,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Elen,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Joey,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Klara,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Lena,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Sven,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Feeding,Willi,Before Feeding,NA,1,2011-03-22-143855-nm-bf-sven.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-143855-nm-bf-sven.arch,0,196.2,196.2,Ground Level,Sven,Ground Level,NA,1,2011-03-22-143855-nm-bf-sven.arch | Ground Level | Sven | Ground Level | NA
+2011-03-22-143855-nm-bf-sven.arch,0,NA,NA,Nearest neighbour,Sven,Jonas,NA,1,2011-03-22-143855-nm-bf-sven.arch | Nearest neighbour | Sven | Jonas | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Anton,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Astrid,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Elen,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Heidi,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Jakob,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Joey,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Jonas,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Klara,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Lasse,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Lena,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Mojo,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Sophie,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Sven,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Unknown,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Time.1,Willi,Afternoon,NA,1,2011-03-22-143855-nm-bf-sven.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-143855-nm-bf-sven.arch,0,300.2,300.2,Total,NA,total duration,NA,NA,2011-03-22-143855-nm-bf-sven.arch | Total | total duration | NA | NA
+2011-03-22-143855-nm-bf-sven.arch,2,3.2,1.2000000000000002,Behavior,Jonas,Touch bill,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Jonas | Touch bill | Sven
+2011-03-22-143855-nm-bf-sven.arch,6.2,6.2,0,Contact Sit,Jonas,Terminate Contact sit,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Jonas | Terminate Contact sit | Sven
+2011-03-22-143855-nm-bf-sven.arch,14.8,33.2,18.400000000000002,Behavior,Sven,Manipulation,NA,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,14.8,33.2,18.400000000000002,Context,Sven,Small Object Context,NA,1,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,33.2,34.2,1,Behavior,Anton,Approach,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Anton | Approach | Sven
+2011-03-22-143855-nm-bf-sven.arch,34.2,34.2,0,Contact Sit,Anton,Initiate Contact sit,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Anton | Initiate Contact sit | Sven
+2011-03-22-143855-nm-bf-sven.arch,34.2,49.2,15,Contact Sit,Sven,Contact Sit,Anton,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Sven | Contact Sit | Anton
+2011-03-22-143855-nm-bf-sven.arch,36.2,39.4,3.1999999999999957,Behavior,Sven,Manipulation,NA,2,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,36.2,65.8,29.599999999999994,Context,Sven,Big Object Context,NA,1,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Big Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,39.6,46.6,7,Behavior,Sven,Sharing,Anton,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Sharing | Anton
+2011-03-22-143855-nm-bf-sven.arch,46.8,46.8,0,Behavior,Sven,CD-Without physical contact,Anton,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | CD-Without physical contact | Anton
+2011-03-22-143855-nm-bf-sven.arch,46.8,46.8,0,Behavior,Sven,CD-Without physical contact,Astrid,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | CD-Without physical contact | Astrid
+2011-03-22-143855-nm-bf-sven.arch,49.6,55.8,6.199999999999996,Behavior,Sven,Play,Anton,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Play | Anton
+2011-03-22-143855-nm-bf-sven.arch,56.4,57.4,1,Behavior,Sven,Approach,Jonas,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Approach | Jonas
+2011-03-22-143855-nm-bf-sven.arch,57.2,57.2,0,Contact Sit,Sven,Initiate Contact sit,Jonas,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Sven | Initiate Contact sit | Jonas
+2011-03-22-143855-nm-bf-sven.arch,57.4,83.6,26.199999999999996,Contact Sit,Sven,Contact Sit,Jonas,2,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Sven | Contact Sit | Jonas
+2011-03-22-143855-nm-bf-sven.arch,58.2,78.4,20.200000000000003,Behavior,Sven,Manipulation,NA,3,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,66,96.2,30.200000000000003,Context,Sven,Small Object Context,NA,2,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,78.6,82.6,4,Behavior,Sven,Autopreening,NA,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Autopreening | NA
+2011-03-22-143855-nm-bf-sven.arch,83.6,83.6,0,Contact Sit,Jonas,Terminate Contact sit,Sven,2,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Jonas | Terminate Contact sit | Sven
+2011-03-22-143855-nm-bf-sven.arch,84.8,89.8,5,Behavior,Sven,Manipulation,NA,4,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,90,94.8,4.799999999999997,Behavior,Sven,Digging,NA,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Digging | NA
+2011-03-22-143855-nm-bf-sven.arch,117.4,119.4,2,Behavior,Sven,Autopreening,NA,2,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Autopreening | NA
+2011-03-22-143855-nm-bf-sven.arch,137.6,140.6,3,Behavior,Sven,Digging,NA,2,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Digging | NA
+2011-03-22-143855-nm-bf-sven.arch,142,144,2,Behavior,Sven,Digging,NA,3,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Digging | NA
+2011-03-22-143855-nm-bf-sven.arch,146.8,172.8,26,Behavior,Sven,Digging,NA,4,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Digging | NA
+2011-03-22-143855-nm-bf-sven.arch,179,180.6,1.5999999999999943,Behavior,Sven,Manipulation,NA,5,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,179,180.6,1.5999999999999943,Context,Sven,Small Object Context,NA,3,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,187,188.2,1.1999999999999886,Behavior,Sven,Manipulation,NA,6,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,187,188.2,1.1999999999999886,Context,Sven,Small Object Context,NA,4,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,190.8,196.2,5.399999999999977,Behavior,Sven,Manipulation,NA,7,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,190.8,196.2,5.399999999999977,Context,Sven,Small Object Context,NA,5,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,197,204.2,7.199999999999989,General,Sven,out of sight,NA,1,2011-03-22-143855-nm-bf-sven.arch | General | Sven | out of sight | NA
+2011-03-22-143855-nm-bf-sven.arch,197,233,36,Ground Level,Sven,Ground Level,NA,2,2011-03-22-143855-nm-bf-sven.arch | Ground Level | Sven | Ground Level | NA
+2011-03-22-143855-nm-bf-sven.arch,217.2,233,15.800000000000011,Behavior,Sven,Manipulation,NA,8,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,217.2,233,15.800000000000011,Context,Sven,Small Object Context,NA,6,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,234.2,273.2,39,Behavior,Sven,Manipulation,NA,9,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,234.2,256.2,22,Context,Sven,Big Object Context,NA,2,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Big Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,256.4,300.2,43.80000000000001,Context,Sven,Small Object Context,NA,7,2011-03-22-143855-nm-bf-sven.arch | Context | Sven | Small Object Context | NA
+2011-03-22-143855-nm-bf-sven.arch,263.6,266.2,2.599999999999966,Behavior,Jonas,Approach,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Jonas | Approach | Sven
+2011-03-22-143855-nm-bf-sven.arch,266.2,266.2,0,Contact Sit,Jonas,Initiate Contact sit,Sven,1,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Jonas | Initiate Contact sit | Sven
+2011-03-22-143855-nm-bf-sven.arch,266.6,291.2,24.599999999999966,Contact Sit,Sven,Contact Sit,Jonas,3,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Sven | Contact Sit | Jonas
+2011-03-22-143855-nm-bf-sven.arch,273.4,291,17.600000000000023,Behavior,Sven,Co-Manipulation,Jonas,1,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Co-Manipulation | Jonas
+2011-03-22-143855-nm-bf-sven.arch,291.2,300.2,9,Behavior,Sven,Manipulation,NA,10,2011-03-22-143855-nm-bf-sven.arch | Behavior | Sven | Manipulation | NA
+2011-03-22-143855-nm-bf-sven.arch,291.2,291.2,0,Contact Sit,Jonas,Terminate Contact sit,Sven,3,2011-03-22-143855-nm-bf-sven.arch | Contact Sit | Jonas | Terminate Contact sit | Sven
+2011-03-22-143855-nm-bf-sven.arch,300.2,NA,NA,Nearest neighbour,Sven,Jonas,NA,2,2011-03-22-143855-nm-bf-sven.arch | Nearest neighbour | Sven | Jonas | NA
+2011-03-22-144543-nm-bf-willi.arch,0,12.8,12.8,Behavior,Jakob,Manipulation,NA,1,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,0,12.8,12.8,Context,Jakob,Small Object Context,NA,1,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-144543-nm-bf-willi.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-144543-nm-bf-willi.arch,0,157.8,157.8,Ground Level,Jakob,Ground Level,NA,1,2011-03-22-144543-nm-bf-willi.arch | Ground Level | Jakob | Ground Level | NA
+2011-03-22-144543-nm-bf-willi.arch,0,NA,NA,Nearest neighbour,Jakob,Elen,NA,1,2011-03-22-144543-nm-bf-willi.arch | Nearest neighbour | Jakob | Elen | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-144543-nm-bf-willi.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-144543-nm-bf-willi.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-144543-nm-bf-willi.arch | Total | total duration | NA | NA
+2011-03-22-144543-nm-bf-willi.arch,31.4,39.2,7.800000000000004,Behavior,Jakob,Manipulation,NA,2,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,31.4,39.2,7.800000000000004,Context,Jakob,Small Object Context,NA,2,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,47,49.2,2.200000000000003,Behavior,Jakob,Manipulation,NA,3,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,47,49.4,2.3999999999999986,Context,Jakob,Small Object Context,NA,3,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,61.8,66.8,5,Behavior,Jakob,Manipulation,NA,4,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,61.8,66.8,5,Context,Jakob,Small Object Context,NA,4,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,70.8,78.8,8,Behavior,Jakob,Manipulation,NA,5,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,70.8,78.8,8,Context,Jakob,Small Object Context,NA,5,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,105.6,107.4,1.8000000000000114,Behavior,Jakob,Approach,Elen,1,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Approach | Elen
+2011-03-22-144543-nm-bf-willi.arch,106.8,119.2,12.400000000000006,Context,Jakob,Small Object Context,NA,6,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,107.6,119.2,11.600000000000009,Behavior,Jakob,Manipulation,NA,6,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,125.6,126.6,1,Behavior,Jakob,Manipulation,NA,7,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-144543-nm-bf-willi.arch,125.6,126.6,1,Context,Jakob,Small Object Context,NA,7,2011-03-22-144543-nm-bf-willi.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-144543-nm-bf-willi.arch,207.2,207.2,0,Behavior,Jakob,Scratch,NA,1,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Scratch | NA
+2011-03-22-144543-nm-bf-willi.arch,229.4,235,5.599999999999994,Behavior,Jakob,Approach,Willi,1,2011-03-22-144543-nm-bf-willi.arch | Behavior | Jakob | Approach | Willi
+2011-03-22-144543-nm-bf-willi.arch,251.4,268.4,16.99999999999997,Contact Sit,Jakob,Contact Sit,Willi,1,2011-03-22-144543-nm-bf-willi.arch | Contact Sit | Jakob | Contact Sit | Willi
+2011-03-22-144543-nm-bf-willi.arch,268.4,268.4,0,Contact Sit,Willi,Terminate Contact sit,Jakob,1,2011-03-22-144543-nm-bf-willi.arch | Contact Sit | Willi | Terminate Contact sit | Jakob
+2011-03-22-144543-nm-bf-willi.arch,300,NA,NA,Nearest neighbour,Jakob,Willi,NA,1,2011-03-22-144543-nm-bf-willi.arch | Nearest neighbour | Jakob | Willi | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,NA,NA,Nearest neighbour,Lasse,Jonas,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Nearest neighbour | Lasse | Jonas | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-145223-nm-bf-lasse.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-145223-nm-bf-lasse.arch | Total | total duration | NA | NA
+2011-03-22-145223-nm-bf-lasse.arch,254.4,300,45.599999999999994,Ground Level,Lasse,Ground Level,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Ground Level | Lasse | Ground Level | NA
+2011-03-22-145223-nm-bf-lasse.arch,260.2,282.6,22.400000000000034,Behavior,Lasse,Manipulation,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Behavior | Lasse | Manipulation | NA
+2011-03-22-145223-nm-bf-lasse.arch,260.2,283.2,23,Context,Lasse,Big Object Context,NA,1,2011-03-22-145223-nm-bf-lasse.arch | Context | Lasse | Big Object Context | NA
+2011-03-22-145223-nm-bf-lasse.arch,291.2,300,8.800000000000011,Behavior,Lasse,Manipulation,NA,2,2011-03-22-145223-nm-bf-lasse.arch | Behavior | Lasse | Manipulation | NA
+2011-03-22-145223-nm-bf-lasse.arch,291.2,300,8.800000000000011,Context,Lasse,Big Object Context,NA,2,2011-03-22-145223-nm-bf-lasse.arch | Context | Lasse | Big Object Context | NA
+2011-03-22-145223-nm-bf-lasse.arch,300,NA,NA,Nearest neighbour,Lasse,Jonas,NA,2,2011-03-22-145223-nm-bf-lasse.arch | Nearest neighbour | Lasse | Jonas | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,45,45,Behavior,Elen,Autopreening,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Autopreening | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,NA,NA,Nearest neighbour,Elen,Anton,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Nearest neighbour | Elen | Anton | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-145910-nm-bf-ellen.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-145910-nm-bf-ellen.arch | Total | total duration | NA | NA
+2011-03-22-145910-nm-bf-ellen.arch,56,88,32,Behavior,Elen,Autopreening,NA,2,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Autopreening | NA
+2011-03-22-145910-nm-bf-ellen.arch,117.6,300,182.4,Ground Level,Elen,Ground Level,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Ground Level | Elen | Ground Level | NA
+2011-03-22-145910-nm-bf-ellen.arch,133.8,140.6,6.799999999999983,Behavior,Elen,Manipulation,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,133.8,140.6,6.799999999999983,Context,Elen,Big Object Context,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Big Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,156.6,163.8,7.200000000000017,Behavior,Elen,Manipulation,NA,2,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,156.6,163.8,7.200000000000017,Context,Elen,Small Object Context,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Small Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,187.4,193.6,6.199999999999989,Behavior,Elen,Manipulation,NA,3,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,187.4,193.6,6.199999999999989,Context,Elen,Small Object Context,NA,2,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Small Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,193.4,194.4,1,Behavior,Jakob,Approach,Elen,1,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Jakob | Approach | Elen
+2011-03-22-145910-nm-bf-ellen.arch,194.4,208.8,14.400000000000006,Contact Sit,Elen,Contact Sit,Jakob,1,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Elen | Contact Sit | Jakob
+2011-03-22-145910-nm-bf-ellen.arch,194.4,194.4,0,Contact Sit,Jakob,Initiate Contact sit,Elen,1,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Jakob | Initiate Contact sit | Elen
+2011-03-22-145910-nm-bf-ellen.arch,208.8,208.8,0,Contact Sit,Jakob,Terminate Contact sit,Elen,1,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Jakob | Terminate Contact sit | Elen
+2011-03-22-145910-nm-bf-ellen.arch,218.8,241.2,22.399999999999977,Behavior,Elen,Manipulation,NA,4,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,218.8,261.4,42.599999999999966,Context,Elen,Small Object Context,NA,3,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Small Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,236,247.8,11.800000000000011,Contact Sit,Elen,Contact Sit,Jakob,2,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Elen | Contact Sit | Jakob
+2011-03-22-145910-nm-bf-ellen.arch,236,236,0,Contact Sit,Jakob,Initiate Contact sit,Elen,2,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Jakob | Initiate Contact sit | Elen
+2011-03-22-145910-nm-bf-ellen.arch,248,248,0,Contact Sit,Elen,Terminate Contact sit,Jakob,1,2011-03-22-145910-nm-bf-ellen.arch | Contact Sit | Elen | Terminate Contact sit | Jakob
+2011-03-22-145910-nm-bf-ellen.arch,248.6,253,4.400000000000006,Behavior,Elen,Manipulation,NA,5,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,283,290.6,7.600000000000023,Behavior,Elen,Manipulation,NA,6,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,283,290.6,7.600000000000023,Context,Elen,Big Object Context,NA,2,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Big Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,296.6,298,1.3999999999999773,Behavior,Elen,Manipulation,NA,7,2011-03-22-145910-nm-bf-ellen.arch | Behavior | Elen | Manipulation | NA
+2011-03-22-145910-nm-bf-ellen.arch,296.6,298,1.3999999999999773,Context,Elen,Big Object Context,NA,3,2011-03-22-145910-nm-bf-ellen.arch | Context | Elen | Big Object Context | NA
+2011-03-22-145910-nm-bf-ellen.arch,300,NA,NA,Nearest neighbour,Elen,Jakob,NA,1,2011-03-22-145910-nm-bf-ellen.arch | Nearest neighbour | Elen | Jakob | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,227.4,227.4,Ground Level,Jonas,Ground Level,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Ground Level | Jonas | Ground Level | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,NA,NA,Nearest neighbour,Jonas,Sven,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Nearest neighbour | Jonas | Sven | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-150623-nm-bf-jonas.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-150623-nm-bf-jonas.arch | Total | total duration | NA | NA
+2011-03-22-150623-nm-bf-jonas.arch,7.6,19.6,12.000000000000002,Behavior,Jonas,Manipulation,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,7.6,19.6,12.000000000000002,Context,Jonas,Small Object Context,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,26.8,30.6,3.8000000000000007,Behavior,Jonas,Manipulation,NA,2,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,26.8,30.6,3.8000000000000007,Context,Jonas,Small Object Context,NA,2,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,33.8,37.2,3.4000000000000057,Behavior,Jonas,Manipulation,NA,3,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,33.8,37.2,3.4000000000000057,Context,Jonas,Small Object Context,NA,3,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,44.6,49.6,5,Behavior,Jonas,Approach,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Approach | Sven
+2011-03-22-150623-nm-bf-jonas.arch,49.6,49.6,0,Contact Sit,Jonas,Initiate Contact sit,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Contact Sit | Jonas | Initiate Contact sit | Sven
+2011-03-22-150623-nm-bf-jonas.arch,49.8,62.8,13,Behavior,Jonas,Touch bill,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Touch bill | Sven
+2011-03-22-150623-nm-bf-jonas.arch,49.8,88.8,39,Contact Sit,Jonas,Contact Sit,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Contact Sit | Jonas | Contact Sit | Sven
+2011-03-22-150623-nm-bf-jonas.arch,64,64,0,Acoustic,Jonas,Maunz,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Acoustic | Jonas | Maunz | Sven
+2011-03-22-150623-nm-bf-jonas.arch,65,67.8,2.799999999999997,Behavior,Jonas,Touch bill,Sven,2,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Touch bill | Sven
+2011-03-22-150623-nm-bf-jonas.arch,70,72.6,2.5999999999999943,Behavior,Jonas,Manipulation,NA,4,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,70,72.6,2.5999999999999943,Context,Jonas,Small Object Context,NA,4,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,89,89,0,Contact Sit,Jonas,Terminate Contact sit,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Contact Sit | Jonas | Terminate Contact sit | Sven
+2011-03-22-150623-nm-bf-jonas.arch,117.2,118,0.7999999999999972,Behavior,Jonas,Manipulation,NA,5,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,117.2,118,0.7999999999999972,Context,Jonas,Small Object Context,NA,5,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,136.6,142.8,6.200000000000017,Behavior,Jonas,Manipulation,NA,6,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,136.6,142.8,6.200000000000017,Context,Jonas,Small Object Context,NA,6,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,153.4,158.8,5.400000000000006,Behavior,Jonas,Manipulation,NA,7,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,153.4,158.8,5.400000000000006,Context,Jonas,Small Object Context,NA,7,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,163,178,15,Behavior,Jonas,Approach,Sven,2,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Approach | Sven
+2011-03-22-150623-nm-bf-jonas.arch,178.2,185.8,7.600000000000023,Behavior,Jonas,Snatching Try,Sven,1,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Snatching Try | Sven
+2011-03-22-150623-nm-bf-jonas.arch,178.2,188.2,10,Contact Sit,Jonas,Contact Sit,Sven,2,2011-03-22-150623-nm-bf-jonas.arch | Contact Sit | Jonas | Contact Sit | Sven
+2011-03-22-150623-nm-bf-jonas.arch,188.4,188.4,0,Contact Sit,Jonas,Terminate Contact sit,Sven,2,2011-03-22-150623-nm-bf-jonas.arch | Contact Sit | Jonas | Terminate Contact sit | Sven
+2011-03-22-150623-nm-bf-jonas.arch,199.8,215.2,15.399999999999977,Behavior,Jonas,Manipulation,NA,8,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Manipulation | NA
+2011-03-22-150623-nm-bf-jonas.arch,199.8,215.2,15.399999999999977,Context,Jonas,Small Object Context,NA,8,2011-03-22-150623-nm-bf-jonas.arch | Context | Jonas | Small Object Context | NA
+2011-03-22-150623-nm-bf-jonas.arch,239.2,NA,NA,Behavior,Jonas,Headwish,NA,1,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,239.6,NA,NA,Behavior,Jonas,Headwish,NA,2,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,240,NA,NA,Behavior,Jonas,Headwish,NA,3,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,251.6,NA,NA,Behavior,Jonas,Headwish,NA,4,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,252,NA,NA,Behavior,Jonas,Headwish,NA,5,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,252.6,NA,NA,Behavior,Jonas,Headwish,NA,6,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,253.2,NA,NA,Behavior,Jonas,Headwish,NA,7,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,256.8,NA,NA,Behavior,Jonas,Headwish,NA,8,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,257.2,NA,NA,Behavior,Jonas,Headwish,NA,9,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,257.6,NA,NA,Behavior,Jonas,Headwish,NA,10,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,258,NA,NA,Behavior,Jonas,Headwish,NA,11,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,258.4,NA,NA,Behavior,Jonas,Headwish,NA,12,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-150623-nm-bf-jonas.arch,259,NA,NA,Behavior,Jonas,Headwish,NA,13,2011-03-22-150623-nm-bf-jonas.arch | Behavior | Jonas | Headwish | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Anton,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Elen,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Joey,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Klara,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Lena,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Sven,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Feeding,Willi,Before Feeding,NA,1,2011-03-22-151218-nm-bf-klara.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-151218-nm-bf-klara.arch,0,277.8,277.8,Ground Level,Klara,Ground Level,NA,1,2011-03-22-151218-nm-bf-klara.arch | Ground Level | Klara | Ground Level | NA
+2011-03-22-151218-nm-bf-klara.arch,0,NA,NA,Nearest neighbour,Klara,Sophie,NA,1,2011-03-22-151218-nm-bf-klara.arch | Nearest neighbour | Klara | Sophie | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Anton,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Astrid,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Elen,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Heidi,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Jakob,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Joey,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Jonas,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Klara,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Lasse,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Lena,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Mojo,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Sophie,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Sven,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Unknown,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Time.1,Willi,Afternoon,NA,1,2011-03-22-151218-nm-bf-klara.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-151218-nm-bf-klara.arch,0,300.2,300.2,Total,NA,total duration,NA,NA,2011-03-22-151218-nm-bf-klara.arch | Total | total duration | NA | NA
+2011-03-22-151218-nm-bf-klara.arch,8.2,28.4,20.2,Behavior,Klara,Manipulation,NA,1,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,8.2,28.4,20.2,Context,Klara,Small Object Context,NA,1,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,44.6,46.6,2,Behavior,Klara,Manipulation,NA,2,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,44.6,46.6,2,Context,Klara,Small Object Context,NA,2,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,60,76,16,Behavior,Klara,Manipulation,NA,3,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,60,76,16,Context,Klara,Small Object Context,NA,3,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,81.8,96.4,14.600000000000009,Behavior,Klara,Manipulation,NA,4,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,81.8,96.4,14.600000000000009,Context,Klara,Small Object Context,NA,4,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,117.8,147.8,30.000000000000014,Behavior,Klara,Manipulation,NA,5,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,117.8,147.8,30.000000000000014,Context,Klara,Small Object Context,NA,5,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,167.8,192.2,24.399999999999977,General,Klara,out of sight,NA,1,2011-03-22-151218-nm-bf-klara.arch | General | Klara | out of sight | NA
+2011-03-22-151218-nm-bf-klara.arch,204.2,209,4.800000000000011,General,Klara,out of sight,NA,2,2011-03-22-151218-nm-bf-klara.arch | General | Klara | out of sight | NA
+2011-03-22-151218-nm-bf-klara.arch,229.6,239.4,9.800000000000011,Behavior,Klara,Manipulation,NA,6,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,229.6,233.4,3.8000000000000114,Context,Klara,Big Object Context,NA,1,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Big Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,233.6,239.4,5.800000000000011,Context,Klara,Small Object Context,NA,6,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,249.4,256.8,7.400000000000006,Behavior,Klara,Manipulation,NA,7,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,249.4,256.8,7.400000000000006,Context,Klara,Small Object Context,NA,7,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,268.6,269.8,1.1999999999999886,Behavior,Klara,Manipulation,NA,8,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Manipulation | NA
+2011-03-22-151218-nm-bf-klara.arch,268.6,269.8,1.1999999999999886,Context,Klara,Small Object Context,NA,8,2011-03-22-151218-nm-bf-klara.arch | Context | Klara | Small Object Context | NA
+2011-03-22-151218-nm-bf-klara.arch,277.8,286.2,8.399999999999977,Behavior,Klara,Approach,Willi,1,2011-03-22-151218-nm-bf-klara.arch | Behavior | Klara | Approach | Willi
+2011-03-22-151218-nm-bf-klara.arch,286.2,286.2,0,Contact Sit,Klara,Initiate Contact sit,Willi,1,2011-03-22-151218-nm-bf-klara.arch | Contact Sit | Klara | Initiate Contact sit | Willi
+2011-03-22-151218-nm-bf-klara.arch,286.4,300.2,13.800000000000011,Contact Sit,Klara,Contact Sit,Willi,1,2011-03-22-151218-nm-bf-klara.arch | Contact Sit | Klara | Contact Sit | Willi
+2011-03-22-151218-nm-bf-klara.arch,300.2,NA,NA,Nearest neighbour,Klara,Willi,NA,1,2011-03-22-151218-nm-bf-klara.arch | Nearest neighbour | Klara | Willi | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-152016-nm-bf-anton.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-152016-nm-bf-anton.arch,0,60,60,Ground Level,Anton,Ground Level,NA,1,2011-03-22-152016-nm-bf-anton.arch | Ground Level | Anton | Ground Level | NA
+2011-03-22-152016-nm-bf-anton.arch,0,NA,NA,Nearest neighbour,Anton,Lasse,NA,1,2011-03-22-152016-nm-bf-anton.arch | Nearest neighbour | Anton | Lasse | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-152016-nm-bf-anton.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-152016-nm-bf-anton.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-152016-nm-bf-anton.arch | Total | total duration | NA | NA
+2011-03-22-152016-nm-bf-anton.arch,13.4,23,9.6,Behavior,Anton,Manipulation,NA,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Manipulation | NA
+2011-03-22-152016-nm-bf-anton.arch,13.4,23,9.6,Context,Anton,Small Object Context,NA,1,2011-03-22-152016-nm-bf-anton.arch | Context | Anton | Small Object Context | NA
+2011-03-22-152016-nm-bf-anton.arch,42.4,46,3.6000000000000014,Behavior,Anton,Approach,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Approach | Sven
+2011-03-22-152016-nm-bf-anton.arch,46.2,52.8,6.599999999999994,Behavior,Anton,Wait and watch,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Wait and watch | Sven
+2011-03-22-152016-nm-bf-anton.arch,53,56.4,3.3999999999999986,Behavior,Anton,Pilfering Try,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Pilfering Try | Sven
+2011-03-22-152016-nm-bf-anton.arch,76.8,95,18.200000000000003,Behavior,Anton,Manipulation,NA,2,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Manipulation | NA
+2011-03-22-152016-nm-bf-anton.arch,76.8,95,18.200000000000003,Context,Anton,Small Object Context,NA,2,2011-03-22-152016-nm-bf-anton.arch | Context | Anton | Small Object Context | NA
+2011-03-22-152016-nm-bf-anton.arch,165.6,165.6,0,Contact Sit,Sven,Initiate Contact sit,Anton,1,2011-03-22-152016-nm-bf-anton.arch | Contact Sit | Sven | Initiate Contact sit | Anton
+2011-03-22-152016-nm-bf-anton.arch,165.8,168,2.1999999999999886,Behavior,Anton,Touch touch bill,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Touch touch bill | Sven
+2011-03-22-152016-nm-bf-anton.arch,165.8,300,134.2,Contact Sit,Anton,Contact Sit,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Contact Sit | Anton | Contact Sit | Sven
+2011-03-22-152016-nm-bf-anton.arch,183.6,186,2.4000000000000057,Behavior,Anton,Touch touch bill,Sven,2,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Touch touch bill | Sven
+2011-03-22-152016-nm-bf-anton.arch,233.6,241.2,7.599999999999994,Behavior,Anton,Touch Touch,Sven,1,2011-03-22-152016-nm-bf-anton.arch | Behavior | Anton | Touch Touch | Sven
+2011-03-22-152016-nm-bf-anton.arch,300,NA,NA,Nearest neighbour,Anton,Sven,NA,1,2011-03-22-152016-nm-bf-anton.arch | Nearest neighbour | Anton | Sven | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Anton,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Elen,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Joey,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Klara,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Lena,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Sven,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Feeding,Willi,Before Feeding,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,NA,NA,Nearest neighbour,Sophie,Lena,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Nearest neighbour | Sophie | Lena | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Anton,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Astrid,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Elen,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Heidi,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Jakob,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Joey,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Jonas,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Klara,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Lasse,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Lena,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Mojo,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Sophie,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Sven,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Unknown,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Time.1,Willi,Afternoon,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-152659-nm-bf-sophie.arch,0,550.2,550.2,Total,NA,total duration,NA,NA,2011-03-22-152659-nm-bf-sophie.arch | Total | total duration | NA | NA
+2011-03-22-152659-nm-bf-sophie.arch,92.2,367.6,275.40000000000003,Ground Level,Sophie,Ground Level,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Ground Level | Sophie | Ground Level | NA
+2011-03-22-152659-nm-bf-sophie.arch,99,133.4,34.400000000000006,General,Sophie,out of sight,NA,1,2011-03-22-152659-nm-bf-sophie.arch | General | Sophie | out of sight | NA
+2011-03-22-152659-nm-bf-sophie.arch,147.4,164.8,17.400000000000006,Behavior,Sophie,Manipulation,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Behavior | Sophie | Manipulation | NA
+2011-03-22-152659-nm-bf-sophie.arch,147.4,164.8,17.400000000000006,Context,Sophie,Small Object Context,NA,1,2011-03-22-152659-nm-bf-sophie.arch | Context | Sophie | Small Object Context | NA
+2011-03-22-152659-nm-bf-sophie.arch,171.8,209.6,37.79999999999998,Behavior,Sophie,Manipulation,NA,2,2011-03-22-152659-nm-bf-sophie.arch | Behavior | Sophie | Manipulation | NA
+2011-03-22-152659-nm-bf-sophie.arch,171.8,209.6,37.79999999999998,Context,Sophie,Small Object Context,NA,2,2011-03-22-152659-nm-bf-sophie.arch | Context | Sophie | Small Object Context | NA
+2011-03-22-152659-nm-bf-sophie.arch,236.8,367.6,130.8,General,Sophie,out of sight,NA,2,2011-03-22-152659-nm-bf-sophie.arch | General | Sophie | out of sight | NA
+2011-03-22-152659-nm-bf-sophie.arch,367.6,404.6,37,Contact Sit,Sophie,Contact Sit,Lena,1,2011-03-22-152659-nm-bf-sophie.arch | Contact Sit | Sophie | Contact Sit | Lena
+2011-03-22-152659-nm-bf-sophie.arch,404.8,404.8,0,Contact Sit,Sophie,Terminate Contact sit,Lena,1,2011-03-22-152659-nm-bf-sophie.arch | Contact Sit | Sophie | Terminate Contact sit | Lena
+2011-03-22-152659-nm-bf-sophie.arch,405,436.6,31.600000000000023,General,Sophie,out of sight,NA,3,2011-03-22-152659-nm-bf-sophie.arch | General | Sophie | out of sight | NA
+2011-03-22-152659-nm-bf-sophie.arch,517.6,517.6,0,Contact Sit,Sophie,Initiate Contact sit,Lena,1,2011-03-22-152659-nm-bf-sophie.arch | Contact Sit | Sophie | Initiate Contact sit | Lena
+2011-03-22-152659-nm-bf-sophie.arch,517.8,550.2,32.40000000000009,Contact Sit,Sophie,Contact Sit,Lena,2,2011-03-22-152659-nm-bf-sophie.arch | Contact Sit | Sophie | Contact Sit | Lena
+2011-03-22-152659-nm-bf-sophie.arch,550.2,NA,NA,Nearest neighbour,Sophie,Lena,NA,2,2011-03-22-152659-nm-bf-sophie.arch | Nearest neighbour | Sophie | Lena | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,21.8,21.8,Behavior,Jakob,Preening,Klara,1,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Preening | Klara
+2011-03-22-153940-nm-bf-jakob.arch,0,85.8,85.8,Contact Sit,Jakob,Contact Sit,Klara,1,2011-03-22-153940-nm-bf-jakob.arch | Contact Sit | Jakob | Contact Sit | Klara
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Anton,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Anton | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Astrid,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Astrid | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Elen,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Elen | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Heidi,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Heidi | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Jakob,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Jakob | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Joey,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Joey | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Jonas,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Jonas | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Klara,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Klara | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Lasse,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Lasse | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Lena,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Lena | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Mojo,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Mojo | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Sophie,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Sophie | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Sven,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Sven | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Unknown,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Unknown | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Feeding,Willi,Before Feeding,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Feeding | Willi | Before Feeding | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,NA,NA,Nearest neighbour,Jakob,Klara,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Nearest neighbour | Jakob | Klara | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Anton,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Anton | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Astrid,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Astrid | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Elen,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Elen | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Heidi,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Heidi | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Jakob,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Jakob | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Joey,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Joey | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Jonas,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Jonas | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Klara,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Klara | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Lasse,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Lasse | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Lena,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Lena | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Mojo,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Mojo | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Sophie,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Sophie | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Sven,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Sven | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Unknown,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Unknown | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Time.1,Willi,Afternoon,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Time.1 | Willi | Afternoon | NA
+2011-03-22-153940-nm-bf-jakob.arch,0,300,300,Total,NA,total duration,NA,NA,2011-03-22-153940-nm-bf-jakob.arch | Total | total duration | NA | NA
+2011-03-22-153940-nm-bf-jakob.arch,2.2,NA,NA,Acoustic,Lena,Food Call,Jakob,1,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,7.8,NA,NA,Acoustic,Lena,Food Call,Jakob,2,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,11.2,NA,NA,Acoustic,Lena,Food Call,Jakob,3,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,15.6,NA,NA,Acoustic,Lena,Food Call,Jakob,4,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,18.6,NA,NA,Acoustic,Lena,Food Call,Jakob,5,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,22,28,6,Behavior,Jakob,Touch touch bill,Klara,1,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Touch touch bill | Klara
+2011-03-22-153940-nm-bf-jakob.arch,22.6,NA,NA,Acoustic,Lena,Food Call,Jakob,6,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,25.6,NA,NA,Acoustic,Lena,Food Call,Jakob,7,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,29,33.6,4.600000000000001,Behavior,Jakob,Preening,Klara,2,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Preening | Klara
+2011-03-22-153940-nm-bf-jakob.arch,31.2,NA,NA,Acoustic,Lena,Food Call,Jakob,8,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,35.2,NA,NA,Acoustic,Lena,Food Call,Jakob,9,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,37.2,47.2,10,Behavior,Jakob,Touch touch bill,Lena,1,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Touch touch bill | Lena
+2011-03-22-153940-nm-bf-jakob.arch,37.4,39,1.6000000000000014,Acoustic,Lena,Defensive Calls,Jakob,1,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Defensive Calls | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,67.6,NA,NA,Acoustic,Lena,Food Call,Jakob,10,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,80.2,NA,NA,Acoustic,Lena,Food Call,Jakob,11,2011-03-22-153940-nm-bf-jakob.arch | Acoustic | Lena | Food Call | Jakob
+2011-03-22-153940-nm-bf-jakob.arch,86,86,0,Contact Sit,Jakob,Terminate Contact sit,Klara,1,2011-03-22-153940-nm-bf-jakob.arch | Contact Sit | Jakob | Terminate Contact sit | Klara
+2011-03-22-153940-nm-bf-jakob.arch,240.2,256,15.800000000000011,Behavior,Jakob,Manipulation,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-153940-nm-bf-jakob.arch,240.2,256,15.800000000000011,Context,Jakob,Small Object Context,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-153940-nm-bf-jakob.arch,240.2,279,38.80000000000001,Ground Level,Jakob,Ground Level,NA,1,2011-03-22-153940-nm-bf-jakob.arch | Ground Level | Jakob | Ground Level | NA
+2011-03-22-153940-nm-bf-jakob.arch,264.2,264.8,0.6000000000000227,Behavior,Jakob,Manipulation,NA,2,2011-03-22-153940-nm-bf-jakob.arch | Behavior | Jakob | Manipulation | NA
+2011-03-22-153940-nm-bf-jakob.arch,264.2,264.8,0.6000000000000227,Context,Jakob,Small Object Context,NA,2,2011-03-22-153940-nm-bf-jakob.arch | Context | Jakob | Small Object Context | NA
+2011-03-22-153940-nm-bf-jakob.arch,271.6,279.6,8,General,Jakob,out of sight,NA,1,2011-03-22-153940-nm-bf-jakob.arch | General | Jakob | out of sight | NA
